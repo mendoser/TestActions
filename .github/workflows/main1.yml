@@ -13,4 +13,4 @@ jobs:
       - name: check java version
         run: java version
       - name: check node version
-        run: node -v
+        run: node version
